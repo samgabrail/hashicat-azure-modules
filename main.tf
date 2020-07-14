@@ -18,5 +18,3 @@ module "web_app_container" {
   container_type = "docker"
   container_image = "scarolan/palacearcade"
 }
-
-
